@@ -22,8 +22,6 @@ $ npm start
 ```
 Contact contributors to update Firebase settings to ensure functionality. 
 
-## Deployed Site 
-https://budget-butler-app.herokuapp.com/
 
 ## Contributors (InternHacks 2021)
 Engineering: Jodie Ritchie, Shreya Challa, Varsha Vattappally\
